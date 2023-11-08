@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.3.28)  8 NOV 2023 11:09
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.3.28)  8 NOV 2023 11:10
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -461,4 +461,441 @@ File: pgflibraryplothandlers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 File: pgfmodulematrix.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgfmatrixcurrentrow=\count304
 \pgfmatrixcurrentcolumn=\count305
-\pgf@matrix@number
+\pgf@matrix@numberofcolumns=\count306
+)
+\tikz@expandcount=\count307
+ (C:\Users\FLORI\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+))) (C:\Users\FLORI\AppData\Local\Programs\MiKTeX\tex/latex/circuitikz\circuitikz.sty
+Package: circuitikz 2023/02/11{} The CircuiTikz circuit drawing package version 1.6.1
+ (C:\Users\FLORI\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarycalc.code.tex
+File: tikzlibrarycalc.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+) (C:\Users\FLORI\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibraryarrows.meta.code.tex
+File: pgflibraryarrows.meta.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfarrowinset=\dimen271
+\pgfarrowlength=\dimen272
+\pgfarrowwidth=\dimen273
+\pgfarrowlinewidth=\dimen274
+) (C:\Users\FLORI\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarybending.code.tex
+File: tikzlibrarybending.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+ (C:\Users\FLORI\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodulebending.code.tex
+File: pgfmodulebending.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+ (C:\Users\FLORI\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodulenonlineartransformations.code.tex
+File: pgfmodulenonlineartransformations.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgftransformnonlinearflatness=\dimen275
+) (C:\Users\FLORI\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibrarycurvilinear.code.tex
+File: pgflibrarycurvilinear.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@curvilinear@time@a=\dimen276
+\pgf@curvilinear@length@a=\dimen277
+\pgf@curvilinear@length@b=\dimen278
+\pgf@curvilinear@length@c=\dimen279
+\pgf@curvilinear@length@d=\dimen280
+)
+\pgf@arrows@the@rigidity=\dimen281
+)) (C:\Users\FLORI\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibraryfpu.code.tex (C:\Users\FLORI\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibraryfpu.code.tex)) (C:\Users\FLORI\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcirc.defines.tex
+\pgf@circ@count@a=\count308
+\pgf@circ@count@b=\count309
+\pgf@circ@count@c=\count310
+\pgf@circ@res@up=\dimen282
+\pgf@circ@res@down=\dimen283
+\pgf@circ@res@zero=\dimen284
+\pgf@circ@res@left=\dimen285
+\pgf@circ@res@right=\dimen286
+\pgf@circ@res@other=\dimen287
+\pgf@circ@res@step=\dimen288
+\pgf@circ@res@temp=\dimen289
+\pgf@circ@Rlen=\dimen290
+\pgf@circ@scaled@Rlen=\dimen291
+\pgfstartlinewidth=\dimen292
+) (C:\Users\FLORI\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcircutils.tex
+\ctikz@scratchbox=\box64
+) (C:\Users\FLORI\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcircpath.tex) (C:\Users\FLORI\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcircshapes.tex) (C:\Users\FLORI\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcircmonopoles.tex) (C:\Users\FLORI\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcircbipoles.tex) (C:\Users\FLORI\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcirctripoles.tex
+\pgf@circ@res@count=\count311
+) (C:\Users\FLORI\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcircquadpoles.tex) (C:\Users\FLORI\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcircmultipoles.tex) (C:\Users\FLORI\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcirclabel.tex) (C:\Users\FLORI\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcircvoltage.tex
+\pgfcirc@labelshift=\dimen293
+) (C:\Users\FLORI\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcirccurrent.tex) (C:\Users\FLORI\AppData\Local\Programs\MiKTeX\tex/generic/circuitikz\pgfcircflow.tex)) (C:\Users\FLORI\AppData\Local\Programs\MiKTeX\tex/latex/pgfplots\pgfplots.sty (C:\Users\FLORI\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.revision.tex)
+Package: pgfplots 2021/05/15 v1.18.1 Data Visualization (1.18.1)
+ (C:\Users\FLORI\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.code.tex (C:\Users\FLORI\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotscore.code.tex
+\t@pgfplots@toka=\toks35
+\t@pgfplots@tokb=\toks36
+\t@pgfplots@tokc=\toks37
+\pgfplots@tmpa=\dimen294
+\c@pgfplots@coordindex=\count312
+\c@pgfplots@scanlineindex=\count313
+ (C:\Users\FLORI\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/sys\pgfplotssysgeneric.code.tex)) (C:\Users\FLORI\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/libs\pgfplotslibrary.code.tex) (C:\Users\FLORI\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/oldpgfcompatib\pgfplotsoldpgfsupp_loader.code.tex) (C:\Users\FLORI\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplotsutil.code.tex (C:\Users\FLORI\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststructure\pgfplotsliststructure.code.tex) (C:\Users\FLORI\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststructure\pgfplotsliststructureext.code.tex) (C:\Users\FLORI\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststructure\pgfplotsarray.code.tex
+\c@pgfplotsarray@tmp=\count314
+) (C:\Users\FLORI\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststructure\pgfplotsmatrix.code.tex) (C:\Users\FLORI\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/numtable\pgfplotstableshared.code.tex
+\c@pgfplotstable@counta=\count315
+\t@pgfplotstable@a=\toks38
+) (C:\Users\FLORI\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststructure\pgfplotsdeque.code.tex)
+(C:\Users\FLORI\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplotsbinary.code.tex (C:\Users\FLORI\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplotsbinary.data.code.tex)) (C:\Users\FLORI\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplotsutil.verb.code.tex) (C:\Users\FLORI\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/libs\pgflibrarypgfplots.surfshading.code.tex
+\c@pgfplotslibrarysurf@no=\count316
+ (C:\Users\FLORI\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/sys\pgflibrarypgfplots.surfshading.pgfsys-pdftex.def))) (C:\Users\FLORI\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplotscolormap.code.tex (C:\Users\FLORI\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplotscolor.code.tex)) (C:\Users\FLORI\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsstackedplots.code.tex) (C:\Users\FLORI\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsplothandlers.code.tex (C:\Users\FLORI\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsmeshplothandler.code.tex (C:\Users\FLORI\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsmeshplotimage.code.tex))) (C:\Users\FLORI\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.scaling.code.tex) (C:\Users\FLORI\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotscoordprocessing.code.tex) (C:\Users\FLORI\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.errorbars.code.tex) (C:\Users\FLORI\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.markers.code.tex) (C:\Users\FLORI\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsticks.code.tex) (C:\Users\FLORI\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.paths.code.tex) (C:\Users\FLORI\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarydecorations.code.tex (C:\Users\FLORI\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmoduledecorations.code.tex
+\pgfdecoratedcompleteddistance=\dimen295
+\pgfdecoratedremainingdistance=\dimen296
+\pgfdecoratedinputsegmentcompleteddistance=\dimen297
+\pgfdecoratedinputsegmentremainingdistance=\dimen298
+\pgf@decorate@distancetomove=\dimen299
+\pgf@decorate@repeatstate=\count317
+\pgfdecorationsegmentamplitude=\dimen300
+\pgfdecorationsegmentlength=\dimen301
+)
+\tikz@lib@dec@box=\box65
+) (C:\Users\FLORI\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarydecorations.pathmorphing.code.tex (C:\Users\FLORI\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/decorations\pgflibrarydecorations.pathmorphing.code.tex)) (C:\Users\FLORI\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarydecorations.pathreplacing.code.tex (C:\Users\FLORI\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/decorations\pgflibrarydecorations.pathreplacing.code.tex)) (C:\Users\FLORI\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/libs\tikzlibrarypgfplots.contourlua.code.tex)
+\pgfplots@numplots=\count318
+\pgfplots@xmin@reg=\dimen302
+\pgfplots@xmax@reg=\dimen303
+\pgfplots@ymin@reg=\dimen304
+\pgfplots@ymax@reg=\dimen305
+\pgfplots@zmin@reg=\dimen306
+\pgfplots@zmax@reg=\dimen307
+) (C:\Users\FLORI\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibraryplotmarks.code.tex
+File: tikzlibraryplotmarks.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+ (C:\Users\FLORI\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibraryplotmarks.code.tex
+File: pgflibraryplotmarks.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+))) (C:\Users\FLORI\AppData\Local\Programs\MiKTeX\tex/latex/tabularray\tabularray.sty (C:\Users\FLORI\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2022-09-28 L3 programming layer (loader) 
+ (C:\Users\FLORI\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-09-28 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count319
+\l__pdf_internal_box=\box66
+))
+Package: tabularray 2023-03-01 v2023A Typeset tabulars and arrays with LaTeX3
+\l__tblr_a_int=\count320
+\l__tblr_c_int=\count321
+\l__tblr_r_int=\count322
+\l__tblr_d_dim=\dimen308
+\l__tblr_h_dim=\dimen309
+\l__tblr_o_dim=\dimen310
+\l__tblr_p_dim=\dimen311
+\l__tblr_q_dim=\dimen312
+\l__tblr_r_dim=\dimen313
+\l__tblr_s_dim=\dimen314
+\l__tblr_t_dim=\dimen315
+\l__tblr_v_dim=\dimen316
+\l__tblr_w_dim=\dimen317
+\l__tblr_a_box=\box67
+\l__tblr_b_box=\box68
+\l__tblr_c_box=\box69
+\l__tblr_d_box=\box70
+\g__tblr_table_count_int=\count323
+\c@rownum=\count324
+\c@colnum=\count325
+\c@rowcount=\count326
+\c@colcount=\count327
+\abovesep=\dimen318
+\belowsep=\dimen319
+\leftsep=\dimen320
+\rightsep=\dimen321
+\g_tblr_level_int=\count328
+\g__tblr_data_row_key_count_int=\count329
+\g__tblr_data_column_key_count_int=\count330
+\g__tblr_data_cell_key_count_int=\count331
+\g__tblr_array_int=\count332
+\l__tblr_key_count_int=\count333
+\l__tblr_key_quotient_int=\count334
+\l__tblr_key_quotient_two_int=\count335
+\l__tblr_key_remainder_int=\count336
+\g__tblr_data_str_value_count_int=\count337
+\rulewidth=\dimen322
+\l__tblr_strut_dp_dim=\dimen323
+\l__tblr_strut_ht_dim=\dimen324
+\g__tblr_cell_wd_dim=\dimen325
+\g__tblr_cell_ht_dim=\dimen326
+\g__tblr_cell_head_dim=\dimen327
+\g__tblr_cell_foot_dim=\dimen328
+\l__column_target_dim=\dimen329
+\l__tblr_caption_box=\box71
+\l__tblr_caption_left_box=\box72
+\l__tblr_row_head_box=\box73
+\l__tblr_row_foot_box=\box74
+\l__tblr_row_head_foot_dim=\dimen330
+\tablewidth=\dimen331
+\l__tblr_table_firsthead_box=\box75
+\l__tblr_table_middlehead_box=\box76
+\l__tblr_table_lasthead_box=\box77
+\l__tblr_table_firstfoot_box=\box78
+\l__tblr_table_middlefoot_box=\box79
+\l__tblr_table_lastfoot_box=\box80
+\l__tblr_remain_height_dim=\dimen332
+\l__tblr_long_from_int=\count338
+\l__tblr_long_to_int=\count339
+\l__tblr_curr_i_int=\count340
+\l__tblr_prev_i_int=\count341
+\l__tblr_table_page_int=\count342
+\l__tblr_table_head_box=\box81
+\l__tblr_table_foot_box=\box82
+\l__tblr_table_head_foot_dim=\dimen333
+\l__tblr_table_head_body_foot_dim=\dimen334
+\l__tblr_table_box=\box83
+\l__tblr_table_hlines_box=\box84
+\l__tblr_hline_box=\box85
+\l__tblr_row_box=\box86
+\l__tblr_col_o_wd_dim=\dimen335
+\l__tblr_col_b_wd_dim=\dimen336
+\l__tblr_hline_leftskip_dim=\dimen337
+\l__tblr_hline_rightskip_dim=\dimen338
+\l__tblr_row_ht_dim=\dimen339
+\l__tblr_row_dp_dim=\dimen340
+\l__tblr_row_abovesep_dim=\dimen341
+\l__tblr_row_belowsep_dim=\dimen342
+\l__tblr_row_vlines_box=\box87
+\l__tblr_vline_box=\box88
+\l__tblr_cell_box=\box89
+\l__row_upper_dim=\dimen343
+\l__row_lower_dim=\dimen344
+\l__row_vpace_dim=\dimen345
+\l__tblr_vline_aboveskip_dim=\dimen346
+\l__tblr_vline_belowskip_dim=\dimen347
+\l__tblr_cell_wd_dim=\dimen348
+\l__tblr_cell_ht_dim=\dimen349
+\l__tblr_diag_box=\box90
+) (C:\Users\FLORI\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks39
+\inpenc@posthook=\toks40
+) (C:\Users\FLORI\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+) (C:\Users\FLORI\AppData\Local\Programs\MiKTeX\tex/latex/lm\lmodern.sty
+Package: lmodern 2015/05/01 v1.6.1 Latin Modern Fonts
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/lmm/m/it on input line 23.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/lmsy/m/n on input line 24.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 25.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 26.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/lmm/b/it on input line 27.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/lmsy/b/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 32.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/lmr/m/it on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/lmss/bx/n on input line 36.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
+) (C:\Users\FLORI\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+) (C:\Users\FLORI\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf.sty
+Package: epstopdf 2020-01-24 v2.11 Conversion with epstopdf on the fly (HO)
+ (C:\Users\FLORI\AppData\Local\Programs\MiKTeX\tex/latex/grfext\grfext.sty
+Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
+) (C:\Users\FLORI\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 504.
+ (C:\Users\FLORI\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))) (C:\Users\FLORI\AppData\Local\Programs\MiKTeX\tex/latex/tools\tabularx.sty
+Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
+ (C:\Users\FLORI\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+Package: array 2022/03/10 v2.5f Tabular extension package (FMi)
+\col@sep=\dimen350
+\ar@mcellbox=\box91
+\extrarowheight=\dimen351
+\NC@list=\toks41
+\extratabsurround=\skip62
+\backup@length=\skip63
+\ar@cellbox=\box92
+)
+\TX@col@width=\dimen352
+\TX@old@table=\dimen353
+\TX@old@col=\dimen354
+\TX@target=\dimen355
+\TX@delta=\dimen356
+\TX@cols=\count343
+\TX@ftn=\toks42
+)) (config/config.sty) (template/index.tex)
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 19.
+ (C:\Users\FLORI\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmr.fd
+File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+) (Fragenkatalog_TEST1.aux)
+\openout1 = `Fragenkatalog_TEST1.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+Package hyperref Info: Link coloring OFF on input line 19.
+ (Fragenkatalog_TEST1.out) (Fragenkatalog_TEST1.out)
+\@outlinefile=\write4
+\openout4 = `Fragenkatalog_TEST1.out'.
+
+ (C:\Users\FLORI\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count344
+\scratchdimen=\dimen357
+\scratchbox=\box93
+\nofMPsegments=\count345
+\nofMParguments=\count346
+\everyMPshowfont=\toks43
+\MPscratchCnt=\count347
+\MPscratchDim=\dimen358
+\MPnumerator=\count348
+\makeMPintoPDFobject=\count349
+\everyMPtoPDFconversion=\toks44
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(71.1319pt, 455.24408pt, 71.1319pt)
+* v-part:(T,H,B)=(67.1485pt, 677.17558pt, 100.72276pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=455.24408pt
+* \textheight=677.17558pt
+* \oddsidemargin=-1.13809pt
+* \evensidemargin=-1.13809pt
+* \topmargin=-42.12149pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package pgfplots notification 'compat/show suggested version=true': document has been generated with the most recent feature set (\pgfplotsset{compat=1.18}).
+
+(C:\Users\FLORI\AppData\Local\Programs\MiKTeX\tex/latex/ninecolors\ninecolors.sty
+Package: ninecolors 2022-02-13 vv2022D Select colors with proper color contrast
+ (C:\Users\FLORI\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xparse.sty
+Package: xparse 2022-06-22 L3 Experimental document command parser
+)) (C:\Users\FLORI\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmr.fd) (C:\Users\FLORI\AppData\Local\Programs\MiKTeX\tex/latex/lm\omllmm.fd) (C:\Users\FLORI\AppData\Local\Programs\MiKTeX\tex/latex/lm\omslmsy.fd) (C:\Users\FLORI\AppData\Local\Programs\MiKTeX\tex/latex/lm\omxlmex.fd) (C:\Users\FLORI\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd) (C:\Users\FLORI\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd)
+Underfull \hbox (badness 6995) in paragraph at lines 36--36
+[]|\T1/lmr/m/n/12 Gro�raumversorgung, Ver-bund-
+ []
+
+[1
+
+{C:/Users/FLORI/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+<figures/Gürtelkabel.PNG, id=55, 654.94687pt x 304.88907pt>
+File: figures/Gürtelkabel.PNG Graphic file (type png)
+<use figures/Gürtelkabel.PNG>
+Package pdftex.def Info: figures/Gürtelkabel.PNG  used on input line 56.
+(pdftex.def)             Requested size: 455.24408pt x 211.92287pt.
+<figures/Radialfeldkabel.PNG, id=57, 557.08125pt x 191.21437pt>
+File: figures/Radialfeldkabel.PNG Graphic file (type png)
+<use figures/Radialfeldkabel.PNG>
+Package pdftex.def Info: figures/Radialfeldkabel.PNG  used on input line 61.
+(pdftex.def)             Requested size: 455.24408pt x 156.26285pt.
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 67.
+ (C:\Users\FLORI\AppData\Local\Programs\MiKTeX\tex/latex/lm\ts1lmr.fd
+File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+) [2
+
+ <./figures/Gürtelkabel.PNG> <./figures/Radialfeldkabel.PNG>] [3
+
+] [4] [5]
+<figures/Blitzschutzbereich.png, id=100, 253.4268pt x 104.0688pt>
+File: figures/Blitzschutzbereich.png Graphic file (type png)
+<use figures/Blitzschutzbereich.png>
+Package pdftex.def Info: figures/Blitzschutzbereich.png  used on input line 214.
+(pdftex.def)             Requested size: 455.24408pt x 186.95845pt.
+ [6
+
+ <./figures/Blitzschutzbereich.png>] [7]
+<figures/Schaltbild.jpg, id=116, 2549.525pt x 1608.0075pt>
+File: figures/Schaltbild.jpg Graphic file (type jpg)
+<use figures/Schaltbild.jpg>
+Package pdftex.def Info: figures/Schaltbild.jpg  used on input line 256.
+(pdftex.def)             Requested size: 455.24408pt x 287.12247pt.
+ [8
+
+ <./figures/Schaltbild.jpg>]
+<figures/T-Halbglied.PNG, id=122, 934.24031pt x 481.8pt>
+File: figures/T-Halbglied.PNG Graphic file (type png)
+<use figures/T-Halbglied.PNG>
+Package pdftex.def Info: figures/T-Halbglied.PNG  used on input line 265.
+(pdftex.def)             Requested size: 455.24408pt x 234.77547pt.
+ [9
+
+ <./figures/T-Halbglied.PNG>]
+<figures/II-Glied.PNG, id=129, 1122.44344pt x 497.60907pt>
+File: figures/II-Glied.PNG Graphic file (type png)
+<use figures/II-Glied.PNG>
+Package pdftex.def Info: figures/II-Glied.PNG  used on input line 277.
+(pdftex.def)             Requested size: 455.24408pt x 201.81909pt.
+<figures/Zeiger.jpg, id=130, 2409.0pt x 2049.6575pt>
+File: figures/Zeiger.jpg Graphic file (type jpg)
+<use figures/Zeiger.jpg>
+Package pdftex.def Info: figures/Zeiger.jpg  used on input line 286.
+(pdftex.def)             Requested size: 455.24408pt x 387.31226pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[10
+
+ <./figures/II-Glied.PNG>] 
+AED: lastpage setting LastPage
+[11 <./figures/Zeiger.jpg>] (Fragenkatalog_TEST1.aux)
+Package rerunfilecheck Info: File `Fragenkatalog_TEST1.out' has not changed.
+(rerunfilecheck)             Checksum: 594A599EE92CCB6FA42023C28778732E;1881.
+ ) 
+Here is how much of TeX's memory you used:
+ 50281 strings out of 475385
+ 1303946 string characters out of 2776907
+ 1962167 words of memory out of 3000000
+ 70952 multiletter control sequences out of 15000+600000
+ 505225 words of font info for 54 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 99i,10n,94p,931b,609s stack positions out of 10000i,1000n,20000p,200000b,80000s
+{C:/Users/FLORI/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc}{C:/Users/FLORI/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc}{C:/Users/FLORI/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}{C:/Users/FLORI/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc}{C:/Users/FLORI/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}<C:/Users/FLORI/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/FLORI/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi12.pfb><C:/Users/FLORI/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi8.pfb><C:/Users/FLORI/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/FLORI/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb><C:/Users/FLORI/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy10.pfb><C:/Users/FLORI/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy8.pfb>
+Output written on Fragenkatalog_TEST1.pdf (11 pages, 1543169 bytes).
+PDF statistics:
+ 202 PDF objects out of 1000 (max. 8388607)
+ 59 named destinations out of 1000 (max. 500000)
+ 120 words of extra memory for PDF output out of 10000 (max. 10000000)
+
